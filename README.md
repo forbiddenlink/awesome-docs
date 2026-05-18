@@ -333,8 +333,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Tool Collection
 
 - [adr-tools](https://github.com/npryce/adr-tools)
-- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [AutomaDocs](https://automadocs.com) - AI documentation platform for GitHub repos. Tree-sitter AST chunking, Claude generation, hybrid retrieval (BM25 + Pinecone vector). Webhook-driven selective regeneration on every push so docs stay in sync with code.
+- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
